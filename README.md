@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hiralpokiya
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in Machine Learning and Artificial Intelligence 
 - 🌱 I’m currently learning BE in computer Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
